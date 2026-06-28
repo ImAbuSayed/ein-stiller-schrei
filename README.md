@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-stiller-schrei/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Ein stiller Schrei](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-stiller-schrei/) |
+| **Get License** | [Official Music Licensing for Ein stiller Schrei](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-stiller-schrei/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, die Nacht ist taub, doch ich brenn' für dich
+> Ein stiller Schrei im Club, dein Blick fokussiert mich
+> Pushe den Benz durch die leeren City Lights
+> Ich will dich heute Nacht, sei mein Ride or Die
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
